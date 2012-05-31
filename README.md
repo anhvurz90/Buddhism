@@ -1,0 +1,4 @@
+Buddhism
+========
+
+Buddhism text summary
