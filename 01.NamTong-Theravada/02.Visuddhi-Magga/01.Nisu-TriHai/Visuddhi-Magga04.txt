@@ -1,0 +1,14 @@
+giu gioi trong chanh niem tinh giac trong 4 oai nghi
+gioi: kham nhan tat ca moi su den voi minh
+4 chanh mang: khong lam cac ta mang(dua den dau kho cho ng khac hoac minh)
+biet du trong su tho dung
+gioi 1 loai: nen tang cua thien phap
+gioi 2 loai: tac tri(nen lam), chi tri(khong nen lam)
+gioi huu lau(giu gioi de duoc cai j), vo lau(giu de giu)
+gioi chanh hanh, 8 gioi tien quyet cho nguoi xuat gia:khoi dau doi song pham hanh
+tanh gioi, gia gioi
+gioi vi minh, vi nguoi khac, vi Dao-vi Phap
+gioi phong
+phong ho cac giac quan
+giu gioi, che nguoi -> KO
+giu gioi, ko tien them -> KO
