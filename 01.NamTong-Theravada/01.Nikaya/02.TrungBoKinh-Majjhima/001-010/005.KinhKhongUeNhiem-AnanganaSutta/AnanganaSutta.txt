@@ -1,0 +1,40 @@
+005.Kinh Không Uế Nhiễm (Anaṅgaṇasuttaṃ)
+
+	* Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Tôn giả Sariputta, Tôn giả Mahamoggallana (Ðại Mục-kiền-liên), thành Vương Xá, Giribbaja. Samiti - con người làm xe, tà mạng ngoại đạo Panduputta.
+
+01. 
+	* x : Cấu uế
+                           -------------------
+	* ở đời có 4 hạng người. 
+
+  1.1 (x), không yathābhūtaṃ pajānāti mình (x). 
+  1.2 (x), có    yathābhūtaṃ pajānāti mình (x). 
+  1.3 Không (x), không yathābhūtaṃ pajānāti mình không (x). 
+  1.4 Không (x), có    yathābhūtaṃ pajānāti mình không (x). 
+                           -------------------
+  (1.1), (1.3): hạ liệt
+  (1.2), (1.4): ưu thắng
+--------------------------------------------------------------------
+02.
+  Good1 = {khởi lên ước muốn, sẽ cố gắng, sẽ tinh tấn, để diệt trừ cấu uế ấy}
+  Bad2 = {còn có tham, còn có sân, còn có si, còn cấu uế, tâm còn nhiễm}
+	(1.1)-> mọi y1 thuộc (Good1): không (y1), và mọi y2 thuộc (Bad2): Người này sẽ từ trần, trong khi (y2)
+                           -------------------
+	(1.2)-> mọi y1 thuộc (Good1): có (y1), và mọi y2 thuộc (Bad2): Người này sẽ từ trần, trong khi không (y2)
+                           -------------------
+	(1.3)-> tư niệm tịnh tướng. Do tư niệm tịnh tướng, tham sẽ làm ô nhiễm tâm của người này-> và mọi y2 thuộc (Bad2): Người này sẽ từ trần, trong khi (y2)
+                           -------------------
+	(1.4)-> không tư niệm tịnh tướng. Do không tư niệm tịnh tướng, tham sẽ không làm ô nhiễm tâm của người này-> và mọi y2 thuộc (Bad2): Người này sẽ từ trần, trong khi không (y2)
+--------------------------------------------------------------------
+03. 
+	* Cấu uế: các ác bất thiện pháp, cảnh giới của dục
+	  Cấu uế: Phẫn nộ và bất mãn
+
+	* mọi z thuộc (Z): Tỳ-kheo khởi lên ý muốn (z), xảy ra 
+[not (z)] -> Tỳ-kheo phẫn nộ và bất mãn -> cấu uế
+--------------------------------------------------------------------
+04.
+	* Tỷ-kheo nào, các ác, bất thiện pháp, cảnh giới của dục này còn được thấy và nghe là chưa được diệt trừ -> các đồng phạm hạnh không cung kính
+
+	* Tỷ-kheo nào, các ác, bất thiện pháp, cảnh giới của dục này được thấy và nghe là đã được diệt trừ -> các đồng phạm hạnh có cung kính
+--------------------------------------------------------------------
