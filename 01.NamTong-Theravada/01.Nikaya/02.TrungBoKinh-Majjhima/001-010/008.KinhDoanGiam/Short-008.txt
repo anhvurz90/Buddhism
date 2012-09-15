@@ -1,9 +1,22 @@
-﻿006.Kinh Doan Giam
+﻿008.Kinh Doan Giam
 
 	* Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), 
-	vườn ông Anathapindika (Cấp Cô Ðộc).
+	vườn ông Anathapindika (Cấp Cô Ðộc). Tôn giả Maha Cunda
 
-	4 Thien 8 Dinh
-		So, 2, 3, 4
+	- Tám chứng đắc, đoạn giảm, khởi tâm, từ bỏ, hướng thượng,
+	pháp môn giải thoát.
+	+ 4 Thien 8 Dinh
+		4.1.So, -> Hỉ lạc do li dục, với tầm với tứ
+		4.2.Diệt tầm và tứ ->2, -> Hỉ lạc do định sanh
+		4.3.Ly hỉ trú xả ->3, -> xả niệm lạc trú
+		4.4.Xả lạc xả khổ, diệt hỉ ưu -> 4, -> không khổ không 			lạc, xả niệm thanh tịnh.
 		Khong, Thuc, Vo, Phi
-	Ta` ---> cha'nh --> giac ngo
+
+	+ Ta` ---> cha'nh --> giac ngo
+	Tà kiến, tà tư duy, tà ngữ, tà nghiệp, tà mạng, tà tinh tấn,
+	tà niệm, tà định, tà trí, tà giải thoát <-> chánh.
+
+	+ Rơi vào bùn không kéo được người khác cũng rơi vào bùn
+	  Không được nhiếp phục, huấn luyện, hoàn toàn giải thoát thì
+	  không nhiếp phục, huấn luyện, giải thoát được người khác.
+	->tự mình trước, độ người sau.

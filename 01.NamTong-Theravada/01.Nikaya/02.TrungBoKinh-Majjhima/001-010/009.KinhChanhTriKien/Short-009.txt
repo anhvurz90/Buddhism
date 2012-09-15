@@ -1,0 +1,37 @@
+﻿009.KinhChanhTriKien.
+
+	Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông 	Anathapindika (Cấp Cô Ðộc). Tôn giả Sariputta (Xá-lợi-phất): 
+
+
+	- Tỳ-kheo có chánh tri kiến, tri kiến chánh trực, có lòng tin
+	Pháp tuyệt đối.
+	
+	1.Thiện và bất thiện, căn bản thiện và căn bản bất thiện.
+	Căn bản bất thiện: tham, sân, si
+
+	2.Thức ăn
+
+	4.Tứ diệu đế
+		khổ <- ái, khởi hỉ dục
+	
+	5.1.Già và chết <- sanh
+	5.2.Sanh <- Hữu
+	5.3.Hữu <- thủ
+	5.4.Thủ <- Ái
+	5.5.Ái <- Thọ
+	5.6.Thọ <- Xúc
+	5.7.Xúc <- Sáu nhập
+	5.8.Nhập <- Danh sắc
+	5.9.Danh Sắc <- Thức
+	5.10.Thức <- Hành
+	5.11.Hành <- Vô minh
+	5.12.Vô minh: không tuệ tri Tứ Diệu Đế.
+	     Vô minh <- Lậu hoặc
+	5.13.Lậu hoặc <-Vô minh
+
+
+  [1.Vô minh <-> Lậu hoặc] -> [2.Hành] -> [3.Thức] -> [4.Danh sắc] ->
+->[5.Sáu nhập] -> [6.Xúc] -> [7.Thọ] -> [8.Ái]
+->[9.Thủ] -> [10.Hữu] -> [11.Sanh] -> [12.Già]
+
+	
