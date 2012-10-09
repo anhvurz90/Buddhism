@@ -1,0 +1,75 @@
+15.KinhTuLuong
+	Tôn giả Mahamoggallana sống giữa những người thuộc dòng họ  Bhagga,
+ 	tại núi Sumsumaragira, rừng Bhesakala, vườn Lộc Uyển
+
+	1.Nếu Tỷ-kheo thỉnh nguyện: "Mong rằng chư Tôn giả nói với tôi,
+ 	mong rằng tôi được chư Tôn giả nói!" Nhưng nếu vị ấy là một người
+	khó nói, đầy đủ những tánh khiến người ấy trở thành khó nói, 
+	khó kham nhẫn, không cung kính đón nhận khi được giảng dạy thì
+	các vị đồng phạm hạnh nghĩ rằng, Tỷ-kheo ấy không đáng nói đến, 
+	nghĩ rằng Tỷ-kheo ấy không đáng được giáo huấn, 
+	nghĩ rằng không nên đặt lòng tin vào người ấy. 
+
+	2.Nếu Tỷ-kheo không thỉnh nguyện: "Mong rằng chư Tôn giả nói với tôi, 
+	mong rằng tôi được chư Tôn giả nói!"; Và nếu vị ấy là một người dễ nói, 
+	đầy đủ những đức tánh khiến người ấy trở thành dễ nói, 
+	kham nhẫn, cung kính đón nhận khi được nghe giảng dạy, 
+	thì các vị đồng phạm hạnh nghĩ rằng, Tỷ-kheo ấy đáng được nói đến, 
+	nghĩ rằng Tỷ-kheo ấy đáng được giáo huấn, 
+	nghĩ rằng nên đặt lòng tin vào người ấy.
+
+	3.Với mỗi x thuộc {S}, nếu Tỳ-kheo (x) -> thì như vậy là một
+	tánh khiến trở thành khó nói.
+	
+	4.Với mỗi x thuộc {S}, nếu Tỳ-kheo không (x) -> thì như vậy
+	là một đức tánh khiến trở thành dễ nói.
+	
+	5.Với mỗi x thuộc {S}, Tỳ-kheo cần tư lượng tự ngã với tự ngã
+	như sau: "Người này (x) nên ta không ưa người ấy, không thích
+	người ấy. Và nếu ta (x), các người khác sẽ không ưa ta, không
+	thích ta". Tỳ-kheo khi biết vậy cần phải phát tâm như sau:
+	"Ta sẽ không (x)".
+
+	6.Với mỗi x thuộc {S}, Tỳ-kheo cần phải quán sát tự ngã với tự
+	ngã như sau: "Không biết ta có (x) không?". 
+	- Nếu Tỳ-kheo quán sát và biết rằng "Ta có (x)" thì Tỳ-kheo ấy
+ 	cần phải tinh tấn đoạn trừ các ác, bất thiện pháp ấy. 
+	- Nếu Tỳ-kheo quán sát và biết rằng "Ta không (x)", thì Tỳ-kheo
+	ấy phải sống với tâm niệm hoan hỉ, ngày đêm tu học các thiện
+	pháp.
+
+	7.Nếu trong khi quán sát, Tỳ-kheo thấy rõ rằng tất cả các ác,
+	bất thiện pháp chưa được đoạn trừ trong nội tâm, thì Tỳ-kheo ấy
+	cần phải tinh tấn đoạn trừ các ác, bất thiện pháp ấy. 
+	- Nếu Tỷ-kheo trong khi quán sát thấy rõ rằng tất cả các ác, 
+	bất thiện pháp đã được đoạn trừ trong nội tâm, thì Tỷ-kheo ấy
+	phải sống với tâm niệm hoan hỷ, ngày đêm tu học thiện pháp.
+.
+	8.Ví như một phụ nữ hay một đàn ông trẻ tuổi, trong tuổi thanh xuân, 
+	tánh ưa trang điểm, tự quán sát mặt mày của mình trong một tấm 
+	kính sạch sẽ và trong suốt, hay trong một bát nước trong sáng. 
+	Nếu người ấy thấy bụi bặm hay cấu uế trên mặt mình, thì người ấy 
+	tinh tấn đoạn trừ bụi bặm hay cấu uế ấy. Nếu người ấy không thấy 
+	bụi bặm hay cấu uế trên mặt mình, thì người ấy sẽ hoan hỷ nghĩ rằng: 
+	"Thật sự ta được điều tốt đẹp; thật sự ta được thanh tịnh".
+
+	9. S = {
+		(1) Có ác dục, bị ác dục chi phối;
+		(2) Khen mình chê người;
+		(3) Phẫn nộ, bị phẫn nộ chi phối;
+		(4) Phẫn nộ, vì phẫn nộ làm nhân trở thành người có hiềm hận;
+		(5) Phẫn nộ, vì phẫn nộ làm nhân trở thành cố chấp;
+		(6) Phẫn nộ, thốt ra những lời liên hệ đến phẫn nộ;
+		(7) Bị buộc tội trở lại chống đối vị đã buộc tội mình;
+		(8) Bị buộc tội trở lại chỉ trích vị đã buộc tội mình;
+		(9) Bị buộc tội trở lại chất vấn vị đã buộc tội mình;
+		(10) Bị buộc tội tránh né vấn đề với một vấn đề khác, trả lời 
+		ra ngoài vấn đề, để lộ phẫn nộ, sân hận và bất mãn của mình;
+		(11) Bị buộc tội không giải thích thỏa mãn hành động của mình 
+		cho vị buộc tội;
+		(12) Hư ngụy và não hại; 
+		(13) Tật đố và xan tham;
+		(14) Lừa đảo và lường gạt;
+		(15) Ngoan mê và quá mạn;
+		(16) Chấp trước thế tục, cố chấp tư kiến, tánh khó hành xả;
+	       }
