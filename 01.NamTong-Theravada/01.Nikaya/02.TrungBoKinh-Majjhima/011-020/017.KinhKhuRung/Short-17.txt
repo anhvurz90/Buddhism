@@ -1,0 +1,37 @@
+﻿17.KinhKhuRung-VanapatthaSutta
+	
+	Thế Tôn ở Savatthi, Jetavana, vườn ông Anathapindika.
+	
+	S = {Khu rừng, làng, thị trấn, đô thị, quốc gia, người}
+				----
+	A = {	- niệm chưa được an trú không được an trú,
+		- tâm tư chưa được định tĩnh không được định tĩnh,
+		- các lậu hoặc chưa được hoàn toàn đoạn trừ không được hoàn
+		toàn đoạn trừ,
+		- vô thượng an ổn khỏi các ách phược chưa được chứng đạt không
+		được chứng đạt 
+	}
+				----
+	not A = { được an trú, được định tĩnh, hoàn toàn đoạn trừ, được chứng
+	đạt }
+				----
+	b = ( những vật dụng cần thiết cho đời sống mà một người xuất gia cần
+	phải sắm đủ như y phục, đồ ăn khất thực, sàng tọa, y dược trị bệnh,
+	những vật dụng này kiếm được một cách khó khăn)
+				----
+	not b = ( kiếm được một cách DỄ DÀNG )
+			--------------------
+
+	
+	Với mọi x thuộc {S}:
+	1. Khi ở trong/cùng (x), nếu A và b -> từ bỏ ngay
+	2. Khi ở trong/cùng (x), nếu A và not b -> suy nghĩ: xuất gia từ bỏ
+	gia đình ko phải vì các thữ trong {b} mà vì các thứ trong {A} cần
+	được chứng đạt -> từ bỏ ngay
+	3. Khi ở trong/cùng (x), nếu not A và b -> suy nghĩ: xuất gia từ bỏ
+	gia đình ko phải vì các thứ trong {b} mà vì các thứ trong {A} cần
+	được chứng đạt -> ở lại, không được bỏ đi
+	4. Khi ở trong/cùng (x), nếu not A và not b -> ở lại cho đến trọn đời
+	không được rời bỏ.
+
+	
