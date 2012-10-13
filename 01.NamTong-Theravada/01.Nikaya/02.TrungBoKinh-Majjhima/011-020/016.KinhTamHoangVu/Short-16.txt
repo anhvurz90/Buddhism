@@ -1,0 +1,70 @@
+﻿16.KinhTamHoangVu(Cetokhila sutta)
+	Thế Tôn ở Savatthi, Jetavana, vườn ông Anathapindika.
+
+	1.Tỳ-kheo CHƯA diệt trừ 5 tâm hoang vu, chưa đoạn tân 5 tâm triền
+	phược -> KHÔNG THỂ lớn mạnh, trưởng thành, hưng thịnh trong Pháp
+	và Luật này.
+
+	  Tỷ-kheo ĐÃ diệt trừ 5 tâm hoang vu, đoạn tận 5 tâm triền phược ->
+	CÓ thể lớn mạnh, trưởng thành, hưng thịnh trong Pháp và Luật này.
+--------------------------------------------------
+	2. 5 Tâm Hoang Vu
+		2.1.Nghi ngờ bậc Đạo Sư, do dự, ko quyết đoán, ko tịnh tín.
+		2.2.Nghi ngờ Pháp, do dự, ko quyết đoán, ko tịnh tín.
+		2.3.Nghi ngờ Tăng, do dự, ko quyết đoán, ko tịnh tín.
+		2.4.Nghi ngờ các học pháp, do dự, ko quyết đoán, ko tịnh tín.
+		2.5.Phẫn nộ đối với các đồng phạm hạnh, không có hoan hỷ,
+		tâm tư chống đối, cứng rắn.
+
+	S = {2.1, 2.2, 2.3, 2.4, 2.5}
+	- Với mọi x[i] thuộc {S}, nếu Tỷ-kheo (x[i]) -> tâm vị này ko hướng về nỗ
+	lực, chuyên cần, kiên trì, tinh tấn. -> tâm hoang vu thứ [i] chưa được
+	diệt trừ.
+	- Với mọi x[i] thuộc {S}, nếu Tỷ-kheo KHÔNG (x[i]) -> tâm vị này CÓ hướng
+	về nỗ lực, chuyên cần, kiên trì, tinh tấn -> tâm hoang vu thứ [i] ĐÃ 
+	được diệt trư.
+--------------------------------------------------
+	3. 5 Tâm triền phược
+		3.1.Đối với dục, m()
+		    m() = { không phải không tham ái,
+			    không phải không dục cầu,
+			    không phải không ái luyến,
+			    không phải không khao khát,
+			    không phải không nhiệt tình,
+			    không phải không khát ái }
+		3.2.Đối với tự thân, m()
+		3.3.Đối với các sắc pháp, m()
+		3.4.Ăn cho đến thỏa thuê, cho đến bụng chứa đầy, sống thiên nặng 
+		về khoái lạc về sàn tọa, khoái lạc về ngủ nghỉ, khoái lạc về thụy
+		miên. 
+		3.5.Sống phạm hạnh với mong cầu được sanh thiên giới với ý nghĩ:
+		"Ta với giới này, với hạnh này, với khổ hạnh này, hay với phạm
+		hạnh này sẽ được sanh làm chư Thiên này hay chư Thiên khác"
+	
+	T = {3.1, 3.2, 3.3, 3.4, 3.5}
+	- Với mọi y[i] thuộc {T}, nếu Tỷ-kheo (y[i]) -> tâm vị ấy ko hướng về nỗ
+	lực, chuyên cần, kiên trì, tinh tấn -> tâm triền phược thứ [i] chưa được
+	đoạn tận.
+	- Với mọi y[i] thuộc {T}, nếu Tỷ-kheo KHÔNG (y[i]) -> tâm vị ấy CÓ hướng
+	về nỗ lực, chuyên cần, kiên trì, tinh tấn -> tâm triền phược thứ [i] ĐÃ
+	được đoạn tận.
+---------------------------------------------------
+	4. V = { dục Thiền định,
+		 tinh tấn Thiền định,
+		 tâm Thiền định,
+		 tư duy Thiền định,
+		 
+	- ( Với mọi z thuộc {V}, vị này tu tập như ý túc câu hữu với (z), tinh
+	cần hành ) + nỗ lực = A3
+	- 5 tâm hoang vu được diệt trừ = A1
+	- 5 tâm triền phược được đoạn tận = A2	
+
+	A1 + A2 + A3 = có đủ khả năng để phá vỡ, có đủ khả năng để chánh giác,
+	có đủ khả năng để đạt thành vô thượng an ổn khỏi các ách phược.
+	
+
+
+	
+	   	
+
+	
